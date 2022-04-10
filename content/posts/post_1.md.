@@ -1,7 +1,17 @@
 ---
-title: "Mi Primer Post"
+title: "Mi Ruta de Aprendizaje"
 date: 2022-04-10
-description: 'En este primer solo puse una mini descripcion mia'
+description: 'te voy a contar todo lo que he aprendido en mi experiencia con launch x'
 ---
 
-Soy Jesus Rosas Cruz y en esta aventura de Launch x, cree mi primer blog y este es mi primer post donde acabo de realizar la decoracion con GoHugo, y reescribir todo el codigo atravez de github
+Hola, quiero contar lo que he estado aprendiendo en este camino en Launch x.
+-Python
+-Logica de programacion
+-Jupyter Notebook
+-Command Line
+-Git y Github
+-Html
+-Css
+-JavaScript
+-VueJs
+-React
